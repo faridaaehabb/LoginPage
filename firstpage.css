@@ -1,0 +1,14 @@
+
+div{
+  border-radius: 20px;
+  border-style: solid;
+border-color: rgb(0, 0, 0);
+  background-color: #f2f2f2;
+  padding: 20px;
+  width: 12cm;
+ margin-left: 12cm;
+}
+
+#Submit{
+  padding: 10px;
+}
